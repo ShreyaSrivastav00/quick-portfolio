@@ -6,17 +6,17 @@
 
 - [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
----
 
 - [Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
 
----
 
 - [Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
 
 ---
 
 ### Technical Blogs-
+
+---
 
 - [Detecting Diseases In Plants](https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb)
 
