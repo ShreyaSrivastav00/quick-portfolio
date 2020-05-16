@@ -1,35 +1,19 @@
 ## Portfolio
 
----
-
 ### Personal Projects-
 
 1-[Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
+2-[Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+3-[Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Technical Blogs-
 
----
+- [Detecting Diseases In Plants](https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb)
 
-### Category Name 2
+- [Machine Translation](https://medium.com/analytics-vidhya/plants-doctor-detecting-diseases-in-plants-e5c44c569bdb)
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [EDA on Wine Data](https://medium.com/@shreyasrivastav26/exploratory-data-analysis-on-wine-data-set-46ff17a42cd4)
 
----
-
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+- [Agglomerative Clustering](https://medium.com/@shreyasrivastav26/agglomerative-clustering-d37f2610893)
