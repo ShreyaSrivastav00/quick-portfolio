@@ -4,6 +4,8 @@
 
 ### Personal Projects-
 
+---
+
 - [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
 
@@ -27,7 +29,9 @@
 - [Agglomerative Clustering](https://medium.com/@shreyasrivastav26/agglomerative-clustering-d37f2610893)
 
 ### Contact Me-
+---
 
 - shreyasrivastav26@gmail.com
+- medium.com/shreyasrivastav26
 
 ---
