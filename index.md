@@ -4,7 +4,7 @@
 
 ### Personal Projects-
 
-[Object Segmentation](https://github.com/ShreyaSrivastav00/object-segmentation)
+1-[Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
 
 ---
