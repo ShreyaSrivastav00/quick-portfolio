@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Personal Projects-
 
 [Object Segmentation](/https://github.com/ShreyaSrivastav00/object-segmentation)
 
