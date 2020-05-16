@@ -10,7 +10,7 @@ I love Data! And this is my journey into trying to become a Data Scientist who c
 - [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
 
-- [Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
+- [Plant's Doctor-Detecting Diseases In Plants](https://github.com/ShreyaSrivastav00/plant-disease-detection)
 
 
 - [Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
