@@ -34,7 +34,7 @@ I love Data! And this is my journey into trying to become a Data Scientist who c
 ### Contact Me:
 ---
 
-- (shreyasrivastav26@gmail.com)
-- (medium.com/@shreyasrivastav26)
+- [shreyasrivastav26@gmail.com]
+- [medium.com/@shreyasrivastav26]
 
 ---
