@@ -4,7 +4,7 @@
 
 ### Personal Projects-
 
-[Object Segmentation](/ShreyaSrivastav00/object-segmentation)
+[Object Segmentation](https://github.com/ShreyaSrivastav00/object-segmentation)
 
 
 ---
