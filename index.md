@@ -1,12 +1,20 @@
 ## Portfolio
 
+---
+
 ### Personal Projects-
 
 - [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
+---
+
 - [Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
 
+---
+
 - [Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
+
+---
 
 ### Technical Blogs-
 
@@ -21,3 +29,5 @@
 ### Contact Me-
 
 - shreyasrivastav26@gmail.com
+
+---
