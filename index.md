@@ -2,11 +2,11 @@
 
 ### Personal Projects-
 
-1-[Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
+- [Object Segmentation-Malaria Bounding Boxes](https://github.com/ShreyaSrivastav00/object-segmentation)
 
-2-[Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
+- [Plant's Doctor](https://github.com/ShreyaSrivastav00/plant-disease-detection)
 
-3-[Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
+- [Santander Customer Transaction Prediction](https://github.com/ShreyaSrivastav00/Santander-customer-transaction-prediction)
 
 ### Technical Blogs-
 
@@ -17,3 +17,7 @@
 - [EDA on Wine Data](https://medium.com/@shreyasrivastav26/exploratory-data-analysis-on-wine-data-set-46ff17a42cd4)
 
 - [Agglomerative Clustering](https://medium.com/@shreyasrivastav26/agglomerative-clustering-d37f2610893)
+
+### Contact Me-
+
+- shreyasrivastav26@gmail.com
