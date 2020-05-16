@@ -1,6 +1,7 @@
-## Portfolio
+## Portfolio:
 
----
+I love Data! And this is my journey into trying to become a Data Scientist who can help people live their lives better.
+
 
 ### Personal Projects-
 
@@ -30,7 +31,7 @@
 
 ---
 
-### Contact Me-
+### Contact Me:
 ---
 
 - shreyasrivastav26@gmail.com
