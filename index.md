@@ -1,4 +1,4 @@
-## Welcome to My Page Which Contains My Work Samples:
+## Welcome to Page Which Contains My Work Samples:
 
 - I love Data! And this is my journey into trying to become a Data Scientist which can help business strategize better.
 - Contributor at AnalyticsVidhya (Medium).
